@@ -9,7 +9,7 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://www.instagram.com/jejejajana" target="_blank">
+    <a href="https://www.instagram.com/jejeajaaaa_?srtk=aTcwbGc3Nng5ZW5z" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
