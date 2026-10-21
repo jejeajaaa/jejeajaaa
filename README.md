@@ -51,10 +51,5 @@
 
 <br/>
 
-<!-- BAGIAN FOTO MEME -->
-<div align="center">
-  <!-- TIPS: Klik kanan foto meme Pak Prabowo di chat ini > Copy Image > Paste (Ctrl+V) tepat di baris ini -->
-  <p>🤫 <i>"ora ono opo opo, sing penting ngoding terus"</i></p>
-</div>
 
 ---
