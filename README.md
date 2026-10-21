@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/jejejajana" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://github.com/jejejaaa" target="_blank">
+    <a href="https://github.com/jejeajaaa" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -45,17 +45,16 @@
 
 ### 📊 GitHub Activity & Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jejejaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejejaaa&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jejeajaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejeajaaa&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
 </div>
 
+<br/>
+
+<!-- BAGIAN FOTO MEME -->
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jejejaaa&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
+  <!-- TIPS: Klik kanan foto meme Pak Prabowo di chat ini > Copy Image > Paste (Ctrl+V) tepat di baris ini -->
+  <p>🤫 <i>"ora ono opo opo, sing penting ngoding terus"</i></p>
 </div>
 
 ---
-
-<div align="center">
-  <sub>⭐️ <i>"Ora ono opo opo, sing penting ngoding terus!"</i></sub>
-</div>
